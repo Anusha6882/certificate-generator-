@@ -15,12 +15,13 @@ A simple web-based certificate generator that Generates certificates for a given
 Would you like a version of this for your GitHub README with b
  ## 🚀 Features
 
-- Input a **category name** (e.g., "AI Bootcamp").
-- Automatically generates **five different certificate styles**.
-- Includes unique fonts, background designs, and layout for each.
-- Displays the certificate **on the canvas** and shows the corresponding **Canvas.js code**.
-- works with local live server
-
+- 🔹 User input for certificate category (e.g., "AI Bootcamp", "Web Dev Workshop")
+- 🔹 Dynamic certificate rendering using **HTML5 Canvas**
+- 🔹 Five different certificate styles with custom fonts and backgrounds
+- 🔹 Displays corresponding Canvas.js code below each design
+- 🔹 Clean, centered layout for print-ready previews
+- 🔹 Fully responsive design and easy to modify
+- 
 ## 📁 Setup Instructions
 
 1. **Clone or download the repository**.
