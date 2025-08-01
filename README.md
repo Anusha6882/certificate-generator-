@@ -71,7 +71,9 @@ Each certificate includes:
 | Fonts not rendering properly   | Use web-safe fonts or add custom fonts via CSS       |
 | Blank canvas                   | Make sure `background.onload` fires before drawing   |
 | "Generate" button not working  | Ensure browser supports HTML5 Canvas and JS is enabled |
+| API errors (e.g. 429)          | LLM/AI integration is optional; this version uses static content |
 
+---
 ## ⚡ Future Enhancements
 
 - [ ] Add **name input** field for personalized certificates
