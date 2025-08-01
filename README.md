@@ -94,22 +94,27 @@ Each certificate includes:
 
 ## 📘 What I Learned
 
-🔹 1. Canvas.js Fundamentals
+ 1. Canvas.js Fundamentals
 - Learned to draw text, images, and shapes on HTML5 canvas.
 - Built 5 certificate designs using different fonts and layouts.
-🔹 2. Handling User Input
+
+ 2. Handling User Input
 - Captured category name input using JavaScript.
 - Dynamically updated canvas content based on input.
-🔹 3. Live Server Usage
+
+ 3. Live Server Usage
 - Used **Live Server** in VS Code to avoid local image loading issues.
 - Helped instantly preview changes and fix canvas rendering errors.
-🔹 4. Debugging Challenges
+
+ 4. Debugging Challenges
 - Faced issues like image loading errors and text misalignment.
 - Fixed them by adjusting paths, canvas dimensions, and load order.
-🔹 5. OpenAI Integration Attempt
+
+ 5. OpenAI Integration Attempt
 - Tried to use OpenAI API to generate creative text.
 - Faced 429 (rate limit) errors, so used fallback logic instead.
-🔹 6. Real-World Learning
+
+6. Real-World Learning
 - Understood how frontend and AI can work together.
 - Learned how to structure projects for future scalability.
 
