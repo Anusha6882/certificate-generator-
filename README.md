@@ -1,6 +1,6 @@
 # 🎓 Certificate Generator (Canvas.js)
 
-A simple web-based certificate generator that renders **five unique certificate designs** using `Canvas.js`.
+A simple web-based certificate generator that Generate certificates for a given category name using Canvas.js, powered by LLMs
  ---
  
  ## 🚀 Features
