@@ -9,7 +9,7 @@ A simple web-based certificate generator that Generate certificates for a given 
 - Automatically generates **five different certificate styles**.
 - Includes unique fonts, background designs, and layout for each.
 - Displays the certificate **on the canvas** and shows the corresponding **Canvas.js code**.
-- **Fully offline** — No server or API needed.
+- works with local live server
 
 ## 📁 Setup Instructions
 
