@@ -20,7 +20,7 @@
 - 🔹 Displays corresponding Canvas.js code below each design
 - 🔹 Clean, centered layout for print-ready previews
 - 🔹 Fully responsive design and easy to modify
-- 
+ 
 ## 📁 Setup Instructions
 
 1. **Clone or download the repository**.
