@@ -1,6 +1,6 @@
 # 🎓 Certificate Generator (Canvas.js)
 
-A simple web-based certificate generator that Generates certificates for a given category name using Canvas.js, powered by LLMs
+- A simple web-based certificate generator that Generates certificates for a given category name using Canvas.js, powered by LLMs
 - This project is a web-based Certificate Generator that allows users to input a category name and generate five unique certificate designs using Canvas.js.
 - It dynamically renders professional certificates with custom backgrounds and fonts on the browser.
 - Each certificate includes a downloadable preview and the corresponding Canvas.js code for transparency and customization.
@@ -9,10 +9,9 @@ A simple web-based certificate generator that Generates certificates for a given
  ## 📁 Folder Structure
 - index.html – main webpage
 - style.css – styles for layout and responsiveness
-- script.js – Canvas rendering + LLM logic
+- script.js – Canvas rendering + logic
 - assets/ – background images for certificates
 
-Would you like a version of this for your GitHub README with b
  ## 🚀 Features
 
 - 🔹 User input for certificate category (e.g., "AI Bootcamp", "Web Dev Workshop")
