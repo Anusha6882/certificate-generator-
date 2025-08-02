@@ -2,10 +2,7 @@
 
 - A simple web-based certificate generator that Generates certificates for a given category name using Canvas.js, powered by LLMs
 - This project is a web-based Certificate Generator that allows users to input a category name and generate five unique certificate designs using Canvas.js.
-- It dynamically renders professional certificates with custom backgrounds and fonts on the browser.
-- Each certificate includes a downloadable preview and the corresponding Canvas.js code for transparency and customization.
-- The content can (optionally) be enhanced using an LLM like OpenAI's API to generate more personalized certificate text.
- ---
+
  ## 📁 Folder Structure
 - index.html – main webpage
 - style.css – styles for layout and responsiveness
